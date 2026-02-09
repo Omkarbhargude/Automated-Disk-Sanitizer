@@ -1,4 +1,4 @@
-# 🧹 Automated Disk Sanitiser Using Python
+# 🧹 Automated Disk Sanitizer Using Python
 ---
 ### Problem Statement
 
